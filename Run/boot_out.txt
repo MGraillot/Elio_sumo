@@ -1,0 +1,4 @@
+Adafruit CircuitPython 142c3a4fb-dirty on 2022-08-30; Eliobot V1 with ESP32S2
+Board ID:elio_eliobot
+UID:C7FD1A04BCC9
+boot.py output:
